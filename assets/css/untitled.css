@@ -1,0 +1,62 @@
+.portfolio-navbar.navbar {
+  box-shadow:0 4px 10px rgba(0,0,0,.1);
+}
+
+.portfolio-navbar.navbar {
+  box-shadow:0 4px 10px rgba(0,0,0,.1);
+}
+
+.gradient {
+  background:linear-gradient(120deg,#7f70f5,#0ea0ff);
+  color:#fff;
+}
+
+.main-image {
+  width:auto;
+  height:200px;
+  float:right;
+  border-radius:20px;
+  margin-left:20px;
+  margin-right:0px;
+  border:1px solid #dedede;
+  margin-top:10px;
+}
+
+@media (min-width: 768px) {
+  .main-image {
+    width:auto;
+    height:200px;
+    float:right;
+    border-radius:20px;
+    margin-left:20px;
+    margin-right:50px;
+    border:1px solid #dedede;
+  }
+}
+
+#short-info {
+  padding-top:40px;
+  padding-bottom:40px;
+}
+
+@media (min-width: 768px) {
+  #short-info {
+    padding-top:55px;
+    height:250px;
+  }
+}
+
+#short-info h4 {
+  margin-top:20px;
+}
+
+.about-me {
+  text-align:justify;
+  font-size:large;
+}
+
+.group {
+  max-width:800px;
+  margin:auto;
+}
+
